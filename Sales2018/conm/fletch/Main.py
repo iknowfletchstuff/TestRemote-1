@@ -12,10 +12,18 @@ if __name__ == '__main__':
     print("init9alput1 2");
     print("initialput 3 ")
     print ("initial put 5")
-    print ("initial put 6")
+    print ("This may be an coflict")
     print ("initial put 7")
     print ("initial put 8")
-    print ("initial put 9")
+    print ("Anotehr conflicting change 9")
     print (" Print out the SUm")
     print ("added nwe line 10")
+    
+    
+    
+    
+    
+    
+    
+    
     pass

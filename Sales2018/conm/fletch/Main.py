@@ -20,6 +20,8 @@ if __name__ == '__main__':
     print ("added nwe line 10")
     print("Just Adde a new line, but previou sline conflicts")
     print("second guy adds line, which can be done atuomatically ? ")
+    print("this is a test adds without conflicts")
+    print("This adds another line without conflicts")
     
     
     

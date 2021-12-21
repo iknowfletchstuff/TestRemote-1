@@ -19,6 +19,8 @@ if __name__ == '__main__':
     print (" Print out the SUm")
     print ("added nwe line 10")
     print("Just Adde a new line, but previou sline conflicts")
+    print("this is a test adds without conflicts")
+    print("This adds another line without conflicts")
     
     
     
